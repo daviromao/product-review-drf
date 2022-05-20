@@ -1,6 +1,3 @@
-from pyexpat import model
-from turtle import update
-from unicodedata import category
 from django.db import models
 from django.contrib.auth.models import User
 
